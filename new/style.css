@@ -45,6 +45,20 @@ footer {
     height: 160px;
     margin-bottom: 0;
     position: relative;
+    padding: 20px;
+    color: white;
+    margin: auto;
+    width: 100%;
+}
+
+footer ul {
+    list-style: none;
+}
+
+footer div {
+    margin: auto;
+    display: grid;
+    place-items: center;
 }
 
 main {
@@ -86,4 +100,104 @@ td, th {
 }
 
 h2 {
+}
+
+.container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+    gap: 10px;
+    margin-top: 20px;
+}
+
+#items_fest {
+    background-color: white;
+    border: 1px solid black;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+}
+
+#items_img_fest {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    z-index: 1;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#items_fest ul {
+    list-style: none;
+    margin-left: -20px;
+}
+
+#szin {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    border: 5px solid white;
+    background-color: blue;
+    z-index: 2;
+    position: absolute;
+    top: 25px;
+    top: 20px;
+    right: 20px;
+    box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+#items_fest h3 {
+    font-weight: bold;
+    font-size: 13pt;
+    margin-top: 10px;
+    max-width: 300px;
+}
+
+#items_fest span {
+    font-weight: bold;
+}
+
+#items_fa {
+    max-width: 180px;
+    max-height: 180px;
+    background-color: white;
+    border: 5px solid white;
+    overflow: hidden;
+    position: relative;
+    box-shadow: 0 0 4px 4px rgba(0, 0, 0, 0.1);
+    border-radius: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#items_fa_teljes h3 {
+    font-weight: bold;
+    font-size: 13pt;
+    margin-top: 10px;
+    max-width: 180px;
+    color: white;
+    z-index: 1;
+    background-color: #1E90FF;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+#items_fa img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    position: relative;
+    z-index: 2;
+}
+
+#items_fa_teljes {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0;
+    width: auto;
+    margin: 0;
 }
