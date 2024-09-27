@@ -1,0 +1,22 @@
+A cseresznye, cseresznyefa középkemény lombos faanyag, leginkább az erdőkben növő vadcseresznye, madárcseresznye (Prunus avium) anyaga.
+
+Dél-eurázsiai (-mediterrán) flóraelem, Síksági-hegyvidéki fa.
+
+Magassága 20…26 m. Kérgének külső része fényes bőrpara, később keresztirányú szalagokban hasad le, idősebb korban a tőnél hosszában repedezett, fekete, durva felületű. Kéregvastagsága 1…3 cm.
+
+Szíjácsa keskeny, sárgás vagy halvány vöröses, gesztje világos vörösesbarna, barnás-zöldes csíkoltsággal. A csíkok a korai pásztában jelentkeznek. Az edények a korai pásztában sűrűek, likacsgyűrűt alkotnak, de a késői pásztában szórtan helyezkednek el. Bélsugarai kicsik, szabad szemmel csak a sugármetszeten láthatók vékony csíkok formájában.
+
+Rönkhossz	6…10 m
+Rönkátmérő	0,6…1,0 m
+Sűrűség	0,57 g/cm³
+Zsugorodás
+Sugárirányban	5,0 %
+Húrirányban	8,7 %
+Keménység
+Rostra merőleges	31 MPa
+Rosttal párhuzamos	59 MPa
+Merevség	11100 MPa
+Szilárdság
+Nyomó	49 MPa
+Hajlító	95 MPa
+Nyíró	15 MPa

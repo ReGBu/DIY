@@ -1,0 +1,22 @@
+A dió, diófa kemény lombos faanyag, a közönséges dió (Juglans regia) anyaga.
+
+Balkáni–elő-ázsiai flóraelem. Hegyvidéki fafaj, a balkáni cseres tölgyesek jellemző fája. Magyarországon vadon ritka, általában ültetett fa, néha elvadul, sok kultúrváltozata van. Enyhe éghajlaton, tápanyagban gazdag, mély vályogtalajokon jól fejlődik, gyorsan nő, magas kort ér meg.
+
+Magassága 20…30 m. Kérge kemény, világosszürke, repedezett, a kéregcserepek oldala fekete. Kéregvastagsága 1…2 cm.
+
+A szíjács világosszürke, széles, igényes célra nem használatos, a geszt sötétszürke, szabálytalanul futó sötét csíkokkal, gőzölés után szép sötétbarna színűvé válik. Edényei szemmel láthatóak, nagyok, ritkák, szórt elrendezésűek. Bélsugarai szabad szemmel alig láthatók, a sugármetszeten kis tükrökként jelentkeznek.
+
+Rönkhossz	8…12 m
+Rönkátmérő	1,0…2,5 m
+Sűrűség	0,64 g/cm³
+Zsugorodás
+Sugárirányban	5,4 %
+Húrirányban	7,5 %
+Keménység
+Rostra merőleges	35 MPa
+Rosttal párhuzamos	70 MPa
+Merevség	12700 MPa
+Szilárdság
+Nyomó	72 MPa
+Hajlító	105 MPa
+Nyíró	8 MPa
